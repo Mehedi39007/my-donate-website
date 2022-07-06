@@ -25,3 +25,43 @@ text-align: center;
   color: white;
   border-radius: 7px;
 }
+.section2{
+  text-align: center;
+}
+
+.button1{
+  height: 50px;
+  background-color: rgb(241, 241, 236);
+  border-radius: 8px;
+  text-decoration: none;
+  border: none;
+}
+
+.button2{
+  height: 50px;
+  background-color: rgb(228, 216, 216);
+  color: black;
+  border: 2px solid red;
+  border-radius: 8px;
+}
+.button3{
+  height: 50px;
+  background-color: rgb(241, 241, 236);
+  border-radius: 8px;
+  text-decoration: none;
+  border: none;
+}
+.button4{
+  height: 50px;
+  background-color: rgb(241, 241, 236);
+  border-radius: 8px;
+  text-decoration: none;
+  border: none;
+}
+.button5{
+  height: 50px;
+  background-color: rgb(241, 241, 236);
+  border-radius: 8px;
+  text-decoration: none;
+  border: none;
+}
