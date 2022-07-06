@@ -45,27 +45,6 @@ text-align: center;
   border: 2px solid red;
   border-radius: 8px;
 }
-.button3{
-  height: 50px;
-  background-color: rgb(241, 241, 236);
-  border-radius: 8px;
-  text-decoration: none;
-  border: none;
-}
-.button4{
-  height: 50px;
-  background-color: rgb(241, 241, 236);
-  border-radius: 8px;
-  text-decoration: none;
-  border: none;
-}
-.button5{
-  height: 50px;
-  background-color: rgb(241, 241, 236);
-  border-radius: 8px;
-  text-decoration: none;
-  border: none;
-}
 .input-button{
   width: 100%;
   height: 50px;
@@ -77,10 +56,54 @@ text-align: center;
   text-align: center;
   padding-top: 40px;
 }
-.section4{
-  text-align: center;
-  width: 100%;
-  max-width: 1000px;
-  margin: 100;
+.flex{
   display: flex;
+  margin: 80px;
+}
+.donateplan{
+  width: 200%;
+  height: 300px;
+  text-align:justify;
+  padding-top: 90px;
+  padding-left: 10px;
+  padding-right: 10px;
+  margin-left: 2%;
+  margin-right: 2%;
+  box-shadow: 10px 10px 50px;
+  border-radius: 8px;
+  background-image: url(medi.png);
+  background-repeat: no-repeat;
+  background-color:rgb(204, 200, 146);
+}
+.donateplan1 {
+  width: 200%;
+  height: 300px;
+  text-align: justify;
+  padding-top: 90px;
+  padding-left: 10px;
+  padding-right: 10px;
+  margin-left: 2%;
+  margin-right: 2%;
+  box-shadow: 10px 10px 50px;
+  border-radius: 8px;
+  background-image: url(food.png);
+background-repeat: no-repeat;
+background-color: beige;
+
+}
+.donateplan2 {
+  width: 200%;
+  height: 300px;
+  text-align: justify;
+  padding-top: 90px;
+  padding-left: 10px;
+  padding-right: 10px;
+  margin-left: 2%;
+  margin-right: 2%;
+  box-shadow: 10px 10px 50px;
+  border-radius: 8px;
+  background-image: url(shelter.png);
+  background-repeat: no-repeat;
+  background-color: rgb(157, 233, 233);
+ 
 }
