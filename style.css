@@ -130,3 +130,15 @@ border: none;
   padding: 50px;
   margin: 0 auto;
 }
+.section6{
+  text-align: center;
+  background-color:black;
+  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+h3{
+  color: red;
+}
+h6{
+  color: white;
+  font-size: 15px;
+}
